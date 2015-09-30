@@ -30,8 +30,8 @@ the dough. See picture below for how my dough usually looks.
 
 ![](img/bread.jpg)
 
-5. Pour the dough into the form and put a blanket over it. Let it rise for 30 mins. While it's rising you may want to set the oven to 225C.
+5. Pour the dough into the form and put a towel over it. Let it rise for 30 mins. While it's rising you may want to set the oven to 225C.
 
 6. Put the form into the oven at 225C for 30 mins.
 
-7. Take the form out of the oven. Gently remove the bread from the form and wrap it in a blanket. If the bread won't come out of the form, put the form upside down and put a wet blanket on it for a few minutes.
+7. Take the form out of the oven. Gently remove the bread from the form and wrap it in a towel. If the bread won't come out of the form, put the form upside down and put a wet towel on it for a few minutes.
