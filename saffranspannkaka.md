@@ -1,7 +1,7 @@
 # Saffranspannkaka
 
 A dessert dish we usually serve in my family on holidays.
-![](img/saffranspannkaka.jpg)
+![](img/saffranspannkaka.png)
 
 ## Zutaten
 
