@@ -5,19 +5,19 @@ A dessert dish we usually serve in my family on holidays.
 
 ## Zutaten
 
-1 dl süße Mandeln
-1g Safran
-3 EL Zucker
-½ TL Vanillezucker
-1½ dl Schlagsahne
-1 L Milchreis (gekocht)
-3 Eier
-Butter oder margarine (um die Form einzufetten)
+- 1 dl süße Mandeln
+- 1g Safran
+- 3 EL Zucker
+- ½ TL Vanillezucker
+- 1½ dl Schlagsahne
+- 1 L Milchreis (gekocht)
+- 3 Eier
+- Butter oder margarine (um die Form einzufetten)
 
 ## Zum servieren
 
-Salmbärmarmelade (Heidelbeeremarmelade geht auch)
-Schlagsahne
+- Salmbärmarmelade (Heidelbeeremarmelade geht auch)
+- Schlagsahne
 
 ## Anweisung
 
