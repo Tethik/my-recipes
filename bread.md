@@ -1,21 +1,21 @@
 # Glutenfree Form-Bread
+
 For lack of a better description, bread. Glutenfree.
 
-
 ## Ingredients
-* 4 dl Milk
-* Anise
-* 25g fresh yeast
-* Fibrex
-* Fänkål
-* Glutenfree Flour Mix
-* Olive Oil
+
+- 4 dl Milk
+- Anise
+- 25g fresh yeast
+- Fibrex
+- Fänkål
+- Glutenfree Flour Mix
+- Olive Oil
 
 ### Optional
-* Raisins (will make it sweeter)
-* Havregryn
 
-
+- Raisins (will make it sweeter)
+- Havregryn
 
 ## Instructions
 
@@ -26,7 +26,7 @@ For lack of a better description, bread. Glutenfree.
 3. Oil the bread form that you intend to use.
 
 4. Add olive oil and spices. Mix. Proceed to mix in flour until you have a somewhat thick. It should still be fairly runny so that you can still pour it into the form. Depending on how dense you want your bread you can alternate
-the dough. See picture below for how my dough usually looks.
+   the dough. See picture below for how my dough usually looks.
 
 ![](img/bread.jpg)
 

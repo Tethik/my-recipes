@@ -1,14 +1,16 @@
 # Cider Pulled Pork in Slow Cooker
 
 ## Ingredients
-* 2 tsp salt
-* 2 tbsp smoked paprika powder
-* 2 tbsp dark sugar
-* a good bit of pepper
-* 250ml cider
-* 2kg pork shoulder
 
-###Instructions
+- 2 tsp salt
+- 2 tbsp smoked paprika powder
+- 2 tbsp dark sugar
+- a good bit of pepper
+- 250ml cider
+- 2kg pork shoulder
+
+### Instructions
+
 1. Mix spices
 
 2. rub pork shoulder thoroughly on all sides with spice mix and put in slow cooker

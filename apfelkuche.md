@@ -1,3 +1,5 @@
+## Ingredients
+
 125 g Margarine
 125 g Zucker
 3 Eier
@@ -5,6 +7,8 @@
 2 Teel. Backpulver
 etwas abgeriebene Zitronenschale
 Prise Salz
+
+## Instructions
 
 Form fetten und mit Semmelmehl/Mehl ausbröseln
 
@@ -19,4 +23,4 @@ Teig in die Form geben und glattstreichen
 
 Obst auf den Teig geben und abbacken
 
-Bachtemperatur: 180°C   Backzeit: 40-50 Min.
+Bachtemperatur: 180°C Backzeit: 40-50 Min.
