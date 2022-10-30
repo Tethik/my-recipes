@@ -10,7 +10,7 @@
 - 1 dl kakao
 - 1 ägg
 - 1 dl mjölk (3%)
-- 1 dl rapsolja
+- 1 dl rapsolja (olivolja går också!)
 - 1 dl kokande vatten
 
 ### Frosting
