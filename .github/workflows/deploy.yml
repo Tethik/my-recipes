@@ -30,4 +30,6 @@ jobs:
       - id: build-publish
         uses: bitovi/github-actions-react-to-ghp@v1.2.0
         with:
-          path: build
+          path: app/build
+          build_command: cd app && npm run build
+          
