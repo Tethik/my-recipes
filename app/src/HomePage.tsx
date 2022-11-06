@@ -1,7 +1,6 @@
 import { Container, List, ListItem, ListItemText, Paper } from "@mui/material";
-import React from "react";
 import { Link } from "react-router-dom";
-import { recipes, getRecipe } from "./Recipes";
+import { recipes } from "./Recipes";
 
 export function HomePage() {
   // const Apfelkuchen = getRecipe("apfelkuche.md");

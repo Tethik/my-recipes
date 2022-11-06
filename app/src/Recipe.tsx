@@ -1,11 +1,12 @@
-import { Container } from "@mui/system";
-import React, { Suspense, useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
-import { getRecipe } from "./Recipes";
 import { MDXProvider } from "@mdx-js/react";
 import { Box } from "@mui/material";
+import { Container } from "@mui/system";
+import { Suspense, useEffect, useState } from "react";
+import { useParams } from "react-router-dom";
+import { getRecipe } from "./Recipes";
 
 const components = {
+  // Just a quick PoC
   Timer: ({ seconds }: { seconds: number }) => {
     const [timeleft, setTimeleft] = useState(seconds);
     const [active, setActive] = useState(false);
@@ -16,7 +17,7 @@ const components = {
         interval = setInterval(() => {
           setTimeleft((seconds) => seconds - 1);
         }, 1000);
-      } else if (!active || seconds <= 0) {
+      } else if (!active || timeleft <= 0) {
         interval && clearInterval(interval);
       }
       return () => interval && clearInterval(interval);
