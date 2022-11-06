@@ -27,12 +27,6 @@ jobs:
           node-version: 16
       - name: Gather files
         run: npm run gather
-        
-      - id: build-publish
-        uses: bitovi/github-actions-react-to-ghp@v1.2.0
-        with:
-          path: app/build
-          build_command: cd app && npm run build
     
       - name: 'Build'
         shell: bash
