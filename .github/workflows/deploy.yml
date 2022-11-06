@@ -11,11 +11,19 @@ permissions:
 
 jobs:
   deploy:
+    defaults:
+      run:
+        working-directory: ./app
     environment:
       name: github-pages
-      url: ${{ steps.build-publish.outputs.page_url }}
+      url: ${{ steps.build-publish.outputs.page_url }}      
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - name: Gather files
+      run: npm run gather    
     - id: build-publish
       uses: bitovi/github-actions-react-to-ghp@v1.2.0
       with:
