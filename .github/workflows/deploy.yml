@@ -22,9 +22,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
       - uses: actions/setup-node@v3
         with:
           node-version: 16
+          
       - name: Gather files
         run: npm run gather
     
@@ -33,7 +35,7 @@ jobs:
         run: |
           echo "::group::Build"
           npm ci
-          ${{ inputs.build_command }}
+          npm run build
           echo "::endgroup::"
           
       - name: 'upload'
