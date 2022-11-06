@@ -41,7 +41,8 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "craco eject"
+    "eject": "craco eject",
+    "gather": "node gather.js"
   },
   "eslintConfig": {
     "extends": [
