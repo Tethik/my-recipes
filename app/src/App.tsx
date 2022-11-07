@@ -1,5 +1,5 @@
 import { Box, createTheme, CssBaseline, Paper, ThemeProvider } from "@mui/material";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
 import { HomePage } from "./HomePage";
 import { Leaderboard } from "./Leaderboard";
@@ -18,7 +18,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <Box>
-        <BrowserRouter basename={process.env.PUBLIC_URL}>
+        <HashRouter basename={process.env.PUBLIC_URL}>
           <Routes>
             <Route path="/">
               <Route index element={<HomePage />} />
@@ -30,7 +30,7 @@ function App() {
           <Paper sx={{ position: "fixed", bottom: 0, left: 0, right: 0 }} elevation={3}>
             <Navbar />
           </Paper>
-        </BrowserRouter>
+        </HashRouter>
       </Box>
     </ThemeProvider>
   );
