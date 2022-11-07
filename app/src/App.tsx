@@ -18,7 +18,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <Box>
-        <HashRouter basename={process.env.PUBLIC_URL}>
+        <HashRouter>
           <Routes>
             <Route path="/">
               <Route index element={<HomePage />} />
