@@ -2,10 +2,8 @@ import { Box, createTheme, CssBaseline, Paper, ThemeProvider } from "@mui/materi
 import { HashRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
 import { HomePage } from "./HomePage";
-import { Leaderboard } from "./Leaderboard";
 import { Navbar } from "./Navbar";
 import { Recipe } from "./Recipe";
-import { SampleListPage } from "./SampleListPage";
 
 const theme = createTheme({
   palette: {
@@ -22,8 +20,8 @@ function App() {
           <Routes>
             <Route path="/">
               <Route index element={<HomePage />} />
-              <Route path="/leaderboard" element={<Leaderboard />} />
-              <Route path="/tasks" element={<SampleListPage />} />
+              <Route path="/leaderboard" element={<></>} />
+              <Route path="/tasks" element={<></>} />
               <Route path="/recipe/:name" element={<Recipe />} />
             </Route>
           </Routes>
