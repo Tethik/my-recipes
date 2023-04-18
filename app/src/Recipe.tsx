@@ -6,6 +6,11 @@ import { useParams } from "react-router-dom";
 import { getRecipe } from "./Recipes";
 
 const components = {
+  img: (props: any) => (
+    <Box display="flex" justifyContent="center" alignItems="center">
+      <img {...props} style={{ maxWidth: "100%" }} />
+    </Box>
+  ),
   // Just a quick PoC
   Timer: ({ seconds }: { seconds: number }) => {
     const [timeleft, setTimeleft] = useState(seconds);
