@@ -1,4 +1,4 @@
-import { Container, List, ListItem, ListItemText, Paper } from "@mui/material";
+import { Container, List, ListItemButton, ListItemText, Paper } from "@mui/material";
 import { Link } from "react-router-dom";
 import { recipes } from "./Recipes";
 
@@ -11,15 +11,9 @@ export function HomePage() {
       <Paper elevation={3}>
         <List sx={{ width: "100%", maxWidth: 360, bgcolor: "background.paper" }}>
           {recipes.map((r) => (
-            <ListItem>
-              {/* <ListItemAvatar>
-                <Avatar>
-                  <WorkIcon />
-                </Avatar>
-              </ListItemAvatar> */}
-
-              <ListItemText primary={<Link to={`/recipe/${r.name}`}>{r.name}</Link>} />
-            </ListItem>
+            <ListItemButton component={Link} to={`/recipe/${r.name}`}>
+              <ListItemText primary={r.name} />
+            </ListItemButton>
           ))}
         </List>
       </Paper>
