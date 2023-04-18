@@ -1,9 +1,9 @@
 import React from "react";
 import recipeIndex from "./content/index.json";
 
-export const recipes = recipeIndex.map((recipe) => ({
-  name: recipe,
-  component: React.lazy(async () => await import("./content/" + recipe)),
+export const recipes = recipeIndex.map(({ file, title }) => ({
+  name: title,
+  component: React.lazy(async () => await import("./content/" + file)),
 }));
 
 export function getRecipe(name: string) {
