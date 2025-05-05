@@ -8,7 +8,6 @@ Simple "rolled cake", naturally glutenfree by using potato flour.
 - 1.5 dl sugar
 - 3 Ägg
 - 1 tsk bakpulver
-- 1 tsk 
 
 Filling
 - Jam
@@ -32,3 +31,7 @@ få kakan att lossna.
 
 6. Bre på fyllning - rulla sedan ihop.
 
+
+# next time?
+kardemumma for dough + longer bake.
+berries in the filling for more thickness
