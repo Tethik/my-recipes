@@ -35,3 +35,8 @@ få kakan att lossna.
 # next time?
 kardemumma for dough + longer bake.
 berries in the filling for more thickness
+
+# attempts
+1 - too eggy, bad bakpulver and maybe didn't bake enough
+2 - used .5 DL more potatoflour, baked full time, much better floof, still smells eggy
+3 ? try with one less egg.
