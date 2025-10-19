@@ -2,13 +2,13 @@
 Ground meat and cabbage and parmesan. Optionally enhance with Bacon.
 
 ## Ingredients
-* 200g ground mwat (beef, beef + pork, pork all work)
+* 200g ground meat (beef, beef + pork, pork all work)
 * (opt) ~50g Bacon
 * pointed cabbage, finely shredded (normal round cabbage also ok, but cooks longer)
 * 1 onion (tennis ball sized), sliced
 * 3 cloves of garlic, finely chopped/grated
 * 1 glug oil
-* (opt) fesh ginger, finely chopped/grated
+* (opt) fresh ginger, finely chopped/grated
 * 2 big bayleaf
 * 6 piment, whole/powder
 * 1 teaspoon cumin
